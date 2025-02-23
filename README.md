@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various LeetCode problems, named as per the question title on LeetCode.
 
-## How to inlclude <bits/stdc++.h> in Vscode
+## 🛠️ How to inlclude <bits/stdc++.h> in Vscode
 
 ```
 1. click the squiggle

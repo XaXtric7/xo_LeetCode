@@ -5,7 +5,8 @@ This repository contains my solutions to various LeetCode problems, named as per
 ## 🛠️ How to inlclude <bits/stdc++.h> in Vscode
 
 ```
-open an empty file with .cpp ext. and write "#include <bits/stdc++.h>" and proceed with below given steps⤵️.
+open an empty file with .cpp ext. and write "#include <bits/stdc++.h>",
+and proceed with below given steps⤵️.
 
 1. click the squiggle
 2. Quick fix

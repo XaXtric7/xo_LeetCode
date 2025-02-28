@@ -4,6 +4,19 @@
 // "brutegroot"  could this be the SCS ? no. why >>>> len = 10.
 // "bgruoote" would be the SCS....  len = 8
 
+// ALGORITHM
+// 1. Base Cases:
+//      If both str1 and str2 are empty → return "".
+//      If str1 is empty → return str2.
+//      If str2 is empty → return str1.
+// 2. Matching Characters:
+//      If str1[0] == str2[0]:
+//          Append the common character to the result of a recursive call with str1[1:] and str2[1:].
+// 3. Non-Matching Characters:
+//      Option 1: Append str1[0] and recurse with str1[1:] and str2.
+//      Option 2: Append str2[0] and recurse with str1 and str2[1:].
+//      Return the shorter result between both options.
+
 class Solution
 {
 public:

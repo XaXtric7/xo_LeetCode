@@ -1,3 +1,7 @@
+// Time Complexit -> O(M * sqrt(M))
+// Space Complexity -> O(M)
+// M = no. of primes
+
 class Solution
 {
 public:

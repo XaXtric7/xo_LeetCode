@@ -1,3 +1,6 @@
+// Time complexity -> O(n * n!)
+// Space complexity -> O(n)
+
 class Solution
 {
 public:

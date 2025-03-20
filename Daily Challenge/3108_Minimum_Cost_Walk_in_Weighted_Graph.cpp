@@ -1,3 +1,6 @@
+// Building DSU (Union-Find) → O(N log N)
+// Processing queries → O(Q log N)
+// Overall Complexity: O((N + Q) log N)
 
 #include <vector>
 using namespace std;

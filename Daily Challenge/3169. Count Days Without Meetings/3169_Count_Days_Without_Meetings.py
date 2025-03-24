@@ -1,5 +1,5 @@
 class Solution:
-    def countDays(self, days: int, meetings: List[List[int]]) -> int:
+    def countDays(self, days: int, meetings: List[List[int]]) -> int: # type: ignore
         meetings.sort()
         prev_end = 0
 

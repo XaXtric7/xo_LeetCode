@@ -1,5 +1,5 @@
 class Solution:
-    def checkValidCuts(self, n: int, rectangles: List[List[int]]) -> bool:
+    def checkValidCuts(self, n: int, rectangles: List[List[int]]) -> bool: # type: ignore
         x = [(r[0], r[2]) for r in rectangles] # (x1, x2)
         y = [(r[1], r[3]) for r in rectangles] # (y1, y2)
 

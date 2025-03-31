@@ -1,5 +1,5 @@
 class Solution:
-    def putMarbles(self, weights: List[int], k: int) -> int:
+    def putMarbles(self, weights: List[int], k: int) -> int: # type: ignore
         
         if k == 1:
             return 0

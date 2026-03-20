@@ -1,4 +1,3 @@
-// My Solution...
 class Solution
 {
 public:

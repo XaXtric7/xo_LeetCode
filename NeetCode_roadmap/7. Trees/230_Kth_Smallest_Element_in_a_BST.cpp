@@ -1,4 +1,3 @@
-// Brute...
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -31,7 +30,6 @@ public:
     {
         vector<int> result;
         inOrder(root, result);
-        sort(result.begin(), result.end());
         return result[k - 1];
     }
 };

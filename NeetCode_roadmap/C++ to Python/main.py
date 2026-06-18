@@ -4,10 +4,6 @@ PYTHON FOR COMPETITIVE PROGRAMMING
 (C++ Equivalents Included as Comments)
 =========================================================
 
-If you know C++, use this file as a quick reference.
-
-Author: ChatGPT
-=========================================================
 """
 
 # =========================================================

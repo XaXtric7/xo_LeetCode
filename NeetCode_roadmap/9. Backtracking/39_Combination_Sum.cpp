@@ -28,7 +28,6 @@ public:
     {
         vector<vector<int>> ans;
         vector<int> nums;
-        int n = candidates.size();
 
         findSum(0, target, candidates, nums, ans);
 

@@ -17,7 +17,7 @@ import java.util.*;
  * File: JavaDSAReference.java
  * ============================================================
  */
-@SuppressWarnings("all")
+@SuppressWarnings({"unused", "FieldCanBeLocal", "Convert2Diamond","ForLoopReplaceableByForEach"})
 public class JavaDSAReference {
 
     // ============================================================
